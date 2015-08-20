@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.contapassos.ResultadoActivity" >
+
+    <item
+        android:id="@+id/acao_progressiva"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Contagem progressiva"/>
+    <item
+        android:id="@+id/acao_regressiva"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Contagem regressiva"/>
+
+</menu>
